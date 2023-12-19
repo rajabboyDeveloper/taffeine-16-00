@@ -1,0 +1,62 @@
+.navbar {
+}
+.nav {
+  background-color: black;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+}
+.item {
+  list-style-type: none;
+  width: 45%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.item_list {
+}
+.item_link {
+  text-decoration: none;
+  color: #fff;
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 27px */
+}
+.btnBox {
+  display: flex;
+  align-items: center;
+}
+.btn_one {
+  color: #272727;
+  background-color: #fff;
+  border: 1px solid #c8c8c8;
+  width: 230px;
+  height: 50px;
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-right: 32px;
+  border: 0;
+}
+.btn_two {
+  border: 0;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  width: 230px;
+  color: white;
+  height: 50px;
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-right: 32px;
+}
