@@ -1,0 +1,43 @@
+.owlcard {
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 300px;
+}
+.title {
+  color: #fff;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 76.8px */
+  text-transform: uppercase;
+  width: 750px;
+  margin-bottom: 20px;
+}
+.text {
+  color: #fff;
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 160%; /* 28.8px */
+  width: 550px;
+  margin-bottom: 30px;
+}
+.btn {
+  border-radius: 4px;
+  background: #fff;
+  display: inline-flex;
+  padding: 16px 32px;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  color: #272727;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
